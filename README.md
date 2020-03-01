@@ -1,0 +1,5 @@
+# DigitalClock
+Unityで作成したデジタル時計
+
+修論システムに組み込んだデジタル時計
+UnityのProjectorから現在の時刻を投影する機能
